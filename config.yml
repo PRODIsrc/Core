@@ -1,0 +1,22 @@
+Settings:
+  Enable_MOTD: true
+  Wartungsmodus: false
+Teamlist:
+  Staff:
+    - '&cTeam ist noch nicht eingetragen..'
+  Vip:
+    - '&cVip''s sind noch nicht eingetragen..'
+Infos:
+  MOTD:
+    - ''
+    - '§cBitte trage die MOTD in der Config.yml ein!'
+    - ''
+  Core:
+    - ''
+    - '&6/core &8- &bCore Befehl.'
+    - '&6/core info &8- &bCore Plugin Info.'
+    - '&6/core save &8- &bPlugin neu laden.'
+    - ''
+Messages:
+  Join_Message: '&e%player% &6hat den Server betreten!'
+  Leave_Message: '&e%player% &6hat den Server verlassen!'

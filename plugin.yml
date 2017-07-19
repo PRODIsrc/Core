@@ -1,0 +1,14 @@
+name: Core
+version: 1.0.0
+author: PRODIII
+
+main: net.prodi.Main
+depends: [Votifier]
+
+commands:
+  list:
+    description: List.
+    usage: </command>
+  core:
+    description: Plugin Command.
+    usage: </command>    

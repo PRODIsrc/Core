@@ -1,0 +1,4 @@
+Global:
+  player_joinserver: '&b%player% &6hat den Server betreten!'
+  player_quitserver: '&c%player% &6hat den Server verlassen!'
+  player_no_permission: '&4Dazu hast du keine Rechte!'
